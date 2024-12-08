@@ -22,7 +22,7 @@ This notebook will be divided into four steps
 
 ## 2. **File Structure**
 
-![Repo Image]
+![File Structure](<Screenshot 2024-12-07 at 9.00.21 PM.png>)
 
 ## 3. **How to run the notebook**
 
@@ -38,10 +38,10 @@ This file.
 
 This notebook contins the various code cells that will cover the following:
 
-Step 1: Find unusual patterns in hourly Google search traffic.
-Step 2: Mine the search traffic data for seasonality.
-Step 3: Relate the search traffic to stock price patterns.
-Step 4: Create a time series model with Prophet.
+1. Find unusual patterns in hourly Google search traffic.
+2. Mine the search traffic data for seasonality.
+3. Relate the search traffic to stock price patterns.
+4. Create a time series model with Prophet.
 
 
 
